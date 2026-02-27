@@ -42,10 +42,11 @@ install.packages(c("shiny", "bslib", "leaflet", "sf", "dplyr"))
 ## Local Setup
 
 1. Clone or download this repository.
-2. Ensure the following files are present in the project root:
-   - `app.R`
+2. Request the shapefiles by emailing **steven@primateresearch.org**. You will receive:
    - `KE/kenya.shp` (and associated `.dbf`, `.prj`, `.shx` files) — Kenya county boundaries
-   - One `.shp` set per species, named exactly as the species appears in the app (e.g. `Puff Adder.shp`)- Email steven@primateresearch.org for associated shapefiles
+   - One `.shp` set per species, named exactly as the species appears in the app (e.g. `Puff Adder.shp`)
+   
+   Place all shapefiles in the project root before running the app.
 3. Open `app.R` in RStudio and click **Run App**, or run from the console:
 
 ```r

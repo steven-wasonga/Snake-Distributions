@@ -1,6 +1,6 @@
 # Kenya Snake Atlas
 
-An interactive web application for visualising the distribution of Kenya's 13 medically important snake species, built with R Shiny. Developed in partnership with KSRIC, KIPRE, and the Kenya Ministry of Health.
+An interactive web application for visualising the distribution of Kenya's 13 medically important snake species, built with R Shiny. Developed in partnership with KSRIC, KIPRE, and the Kenya Ministry of Health. https://steeve.shinyapps.io/SNAKE_DISTRIBUTIONS/
 
 ## Overview
 
